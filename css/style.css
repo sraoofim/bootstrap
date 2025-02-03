@@ -1,3 +1,8 @@
+body::before {
+  display: block;
+  content: " ";
+  height: 60px;
+}
 .bg-primary {
   background-color: #bcb4a9 !important;
 }
